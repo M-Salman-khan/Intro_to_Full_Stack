@@ -1,0 +1,26 @@
+[
+  {
+    "username": "alice123",
+    "password": "alice@2024"
+  },
+  {
+    "username": "bob_the_dev",
+    "password": "bobSecure99"
+  },
+  {
+    "username": "salman123",
+    "password": "pass123"
+  },
+  {
+    "username": "charlie",
+    "password": "charlieP@ss"
+  },
+  {
+    "username": "diana.dev",
+    "password": "diana1234"
+  },
+  {
+    "username": "test_user",
+    "password": "test@pass"
+  }
+]
